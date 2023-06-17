@@ -2,7 +2,7 @@
 
 This repository contains Dachuan Shi's course projects for
 - Data Visualization (2022 Spring, THU Postgraduate Course, Score A+)
-- Experimental design and data processing (2022 Spring, THU Postgraduate Course, Score A+)
+- Experimental Design and Data Processing (2022 Spring, THU Postgraduate Course, Score A+)
 
 
 ### Table of Contents
