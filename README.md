@@ -21,4 +21,4 @@ This repository contains Dachuan Shi's course projects for
   - Cluster Analysis
 
 ### Disclaimer
-Feel free to use, but I am not responsible for any possible adverse consequences. 
+Feel free to use, but I am not responsible for any possible adverse consequences. And if you find this repo useful, you may consider ving me 50 for Crazy Thursday.
