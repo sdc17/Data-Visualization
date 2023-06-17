@@ -1,4 +1,4 @@
-# Digital Image Processing
+# Data Processing and Visualization
 
 This repository contains Dachuan Shi's course projects for
 - Data Visualization (2022 Spring, THU Postgraduate Course, Score A+)
