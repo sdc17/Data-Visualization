@@ -11,12 +11,12 @@ This repository contains Dachuan Shi's course projects for
   - [Visualization Diagram](./Visualization%20Diagram)
   - [Laplacian Matrix Calculator for Hypergraph](./Laplacian%20Matrix%20Calculator%20for%20Hypergraph)
   - [ML&DL-Assisted Visualization](./ML%26DL-Assisted%20Visualization)
-- [Experimental design and data processing](./Experiment%20Design%20And%20Data%20Processing)
-  - Orthogonal experimental design
-  - Preprocessing of data
+- [Experimental Design and Data Processing](./Experiment%20Design%20And%20Data%20Processing)
+  - Orthogonal Experimental Design
+  - Preprocessing of Data
   - Statistical Analysis
   - Data Diagram
-  - Regression analysis
+  - Regression Analysis
   - Dimensionality Reduction
   - Cluster Analysis
 
