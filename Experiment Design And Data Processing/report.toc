@@ -1,0 +1,100 @@
+\contentsline {section}{\numberline {1}实验背景}{3}{section.1}%
+\contentsline {section}{\numberline {2}实验设计}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}作业要求}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}实验介绍}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}正交实验设计}{3}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}极差分析}{5}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}方差分析}{5}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}使用DesignExpert软件验证}{7}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}正交实验设计总结}{11}{subsubsection.2.3.4}%
+\contentsline {section}{\numberline {3}数据的预处理和统计分析}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}作业要求}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}实验介绍}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}数据的预处理}{12}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}均向量}{12}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}协方差矩阵}{14}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}相关系数矩阵}{14}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}变量的直方图}{15}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}变量的箱式图}{15}{subsubsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.6}对各变量的异常数据进行判断和取舍}{18}{subsubsection.3.3.6}%
+\contentsline {paragraph}{散点图法}{18}{paragraph*.25}%
+\contentsline {paragraph}{箱型图法}{18}{paragraph*.27}%
+\contentsline {paragraph}{置信区间法}{18}{paragraph*.29}%
+\contentsline {subsubsection}{\numberline {3.3.7}数据的预处理实验总结}{21}{subsubsection.3.3.7}%
+\contentsline {subsection}{\numberline {3.4}统计分析}{21}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}数据的分布检验}{21}{subsubsection.3.4.1}%
+\contentsline {paragraph}{检验问题}{21}{paragraph*.31}%
+\contentsline {paragraph}{检验方法}{21}{paragraph*.32}%
+\contentsline {paragraph}{检验结果}{21}{paragraph*.33}%
+\contentsline {subsubsection}{\numberline {3.4.2}参数估计之区间估计}{22}{subsubsection.3.4.2}%
+\contentsline {paragraph}{估计问题}{22}{paragraph*.35}%
+\contentsline {paragraph}{估计方法}{22}{paragraph*.36}%
+\contentsline {paragraph}{估计结果}{23}{paragraph*.37}%
+\contentsline {subsubsection}{\numberline {3.4.3}参数估计之样本容量确定}{23}{subsubsection.3.4.3}%
+\contentsline {paragraph}{估计问题}{23}{paragraph*.38}%
+\contentsline {paragraph}{估计方法}{23}{paragraph*.39}%
+\contentsline {paragraph}{估计结果}{23}{paragraph*.40}%
+\contentsline {subsubsection}{\numberline {3.4.4}统计检验之离群值检验}{23}{subsubsection.3.4.4}%
+\contentsline {paragraph}{检验问题}{23}{paragraph*.41}%
+\contentsline {paragraph}{检验方法}{23}{paragraph*.42}%
+\contentsline {paragraph}{检验结果}{24}{paragraph*.44}%
+\contentsline {subsubsection}{\numberline {3.4.5}统计检验之方差比较检验}{24}{subsubsection.3.4.5}%
+\contentsline {paragraph}{检验问题}{24}{paragraph*.46}%
+\contentsline {paragraph}{检验方法}{24}{paragraph*.47}%
+\contentsline {paragraph}{检验结果}{24}{paragraph*.48}%
+\contentsline {subsubsection}{\numberline {3.4.6}统计检验之均值检验}{24}{subsubsection.3.4.6}%
+\contentsline {paragraph}{检验问题}{24}{paragraph*.49}%
+\contentsline {paragraph}{检验方法}{25}{paragraph*.50}%
+\contentsline {paragraph}{检验结果}{25}{paragraph*.51}%
+\contentsline {subsubsection}{\numberline {3.4.7}方差分析与极差分析}{25}{subsubsection.3.4.7}%
+\contentsline {subsubsection}{\numberline {3.4.8}统计分析实验总结}{25}{subsubsection.3.4.8}%
+\contentsline {section}{\numberline {4}数据的图示}{25}{section.4}%
+\contentsline {subsection}{\numberline {4.1}作业要求}{25}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}实验介绍}{26}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}数据图示}{26}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}散点图}{26}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}折线图}{27}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}条形图}{31}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}饼图}{31}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}数据的图示实验总结}{32}{subsubsection.4.3.5}%
+\contentsline {section}{\numberline {5}数据的处理作业一}{33}{section.5}%
+\contentsline {subsection}{\numberline {5.1}作业要求}{33}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}实验介绍}{34}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}回归分析}{34}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}两变量线性回归}{34}{subsubsection.5.3.1}%
+\contentsline {paragraph}{回归问题}{34}{paragraph*.62}%
+\contentsline {paragraph}{回归方法}{34}{paragraph*.64}%
+\contentsline {paragraph}{回归结果}{35}{paragraph*.65}%
+\contentsline {subsubsection}{\numberline {5.3.2}两变量线性显著性检验}{35}{subsubsection.5.3.2}%
+\contentsline {paragraph}{检验问题}{35}{paragraph*.67}%
+\contentsline {paragraph}{检验方法}{35}{paragraph*.68}%
+\contentsline {paragraph}{检验结果}{36}{paragraph*.69}%
+\contentsline {subsubsection}{\numberline {5.3.3}两变量线性回归结果讨论}{36}{subsubsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.4}多元线性回归}{37}{subsubsection.5.3.4}%
+\contentsline {paragraph}{回归问题}{37}{paragraph*.70}%
+\contentsline {paragraph}{回归方法}{37}{paragraph*.71}%
+\contentsline {paragraph}{回归结果}{37}{paragraph*.72}%
+\contentsline {subsubsection}{\numberline {5.3.5}多元线性回归显著性检验}{38}{subsubsection.5.3.5}%
+\contentsline {paragraph}{检验问题}{38}{paragraph*.73}%
+\contentsline {paragraph}{检验方法}{38}{paragraph*.74}%
+\contentsline {paragraph}{检验结果}{38}{paragraph*.75}%
+\contentsline {subsubsection}{\numberline {5.3.6}多元线性回归结果讨论}{39}{subsubsection.5.3.6}%
+\contentsline {section}{\numberline {6}数据的处理作业二}{39}{section.6}%
+\contentsline {subsection}{\numberline {6.1}作业要求}{39}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}实验介绍}{40}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}降维分析}{40}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}降维问题}{40}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}降维方法}{40}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}降维过程}{41}{subsubsection.6.3.3}%
+\contentsline {subsubsection}{\numberline {6.3.4}选择最终降维成分的依据}{43}{subsubsection.6.3.4}%
+\contentsline {subsubsection}{\numberline {6.3.5}降维后新变量与原始变量之间关系}{43}{subsubsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.4}聚类分析}{44}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}聚类问题}{44}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}聚类方法}{45}{subsubsection.6.4.2}%
+\contentsline {paragraph}{相似性测度}{45}{paragraph*.82}%
+\contentsline {paragraph}{聚类的目标类数}{45}{paragraph*.83}%
+\contentsline {paragraph}{类间距离计算方式}{45}{paragraph*.84}%
+\contentsline {paragraph}{聚类算法}{45}{paragraph*.85}%
+\contentsline {subsubsection}{\numberline {6.4.3}聚类过程}{46}{subsubsection.6.4.3}%
+\contentsline {subsubsection}{\numberline {6.4.4}聚类结果分析}{46}{subsubsection.6.4.4}%
+\contentsline {section}{\numberline {7}参考文献}{53}{section.7}%
